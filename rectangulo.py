@@ -4,4 +4,5 @@ class rectangulo:
 		self.y = y
 
 	def area(self):
+		"""Documentamos el metodo area"""
 		return self.x * self.
